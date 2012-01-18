@@ -1,2 +1,2 @@
-require('../ttycolors')(process.stdout)
-console.log("Red only if tty".red)
+require('../ttycolors')()
+console.log(process.argv[2].red)
