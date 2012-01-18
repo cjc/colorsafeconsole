@@ -18,3 +18,7 @@ behaves like
 ## Probably very bad
 
 This currently relies on the ````process.stdout._type```` property, which for all I know is going to vanish in 38 seconds.
+
+## What about stderr?
+
+That's an excellent question that I only just thought of. I'll get back to you.
