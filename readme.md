@@ -13,7 +13,7 @@ behaves like
 
     > node example 'This will be red'
     > node example 'This will NOT be red' | more
-    > node example 'This will also NOT be red' > asd; cat asd
+    > node example 'This will also NOT be red' > asd; cat asd; rm asd
 
 ## Probably very bad
 
