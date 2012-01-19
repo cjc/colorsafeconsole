@@ -1,12 +1,12 @@
 {
   "author": "cjc <cjc@cjc.id.au>",
-  "name": "ttycolors",
-  "description": "A thin wrapper around Marak's colors.js for only applying ansi colors when output is tty (not pipe or filesystem)",
+  "name": "colorsafeconsole",
+  "description": "A console wrapper to prevent ANSI colors being printed to output streams which aren't TTY",
   "version": "0.0.1",
   "repository": {
     "url": ""
   },
-  "main": "ttycolors.js",
+  "main": "colorsafeconsole.js",
   "engines": {
     "node": ">=0.6.6"
   },
@@ -14,5 +14,6 @@
     "colors": ">= 0.6.0"
   },
   "devDependencies": {},
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "keywords": ["colors","colours","coloursafeconsole","tty"]
 }

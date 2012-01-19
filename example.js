@@ -1,2 +1,5 @@
-require('../ttycolors')()
-console.log(process.argv[2].red)
+require('../colorsafeconsole')(console)
+require('../colors.js')
+console.log('console.log %s'.green,'printf-esque'.blue)
+console.warn('console.warn'.yellow)
+console.error("console.error".red)
