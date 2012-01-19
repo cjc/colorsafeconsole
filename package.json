@@ -2,7 +2,7 @@
   "author": "cjc <cjc@cjc.id.au>",
   "name": "colorsafeconsole",
   "description": "A console wrapper to prevent ANSI colors being printed to output streams which aren't TTY",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/cjc/colorsafeconsole.git"
