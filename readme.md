@@ -14,6 +14,8 @@ The supplied ````example.js````
 
 behaves like
 
+![example.js output](https://github.com/cjc/colorsafeconsole/raw/master/example.png)
+
 ## Probably very bad
 
 This currently relies on the ````process.stdout._type```` property, which for all I know is going to vanish in 38 seconds.
