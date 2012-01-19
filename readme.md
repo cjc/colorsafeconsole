@@ -22,4 +22,4 @@ This currently relies on the ````process.stdout._type```` property, which for al
 
 ## Credits
 
-````stripColors```` is from Marak's colors.js, which is also the library that this is mostly intended to be used with.
+````stripColors```` is from Marak's [colors.js](https://github.com/Marak/colors.js), which is also the library that this is mostly intended to be used with.
