@@ -2,7 +2,7 @@
   "author": "cjc <cjc@cjc.id.au>",
   "name": "colorsafeconsole",
   "description": "A console wrapper to prevent ANSI colors being printed to output streams which aren't TTY",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/cjc/colorsafeconsole.git"
@@ -12,9 +12,10 @@
     "node": ">=0.6.6"
   },
   "dependencies": {
+  },
+  "devDependencies": {
     "colors": ">= 0.6.0"
   },
-  "devDependencies": {},
   "optionalDependencies": {},
   "keywords": [
     "colors",
