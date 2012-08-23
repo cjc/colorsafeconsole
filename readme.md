@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/cjc/colorsafeconsole.png)](http://travis-ci.org/cjc/colorsafeconsole)
 # colorsafeconsole
 
 A simple wrapper for node.js console to prevent ANSI colours being output to streams that aren't a user shell (such as pipes or files).
